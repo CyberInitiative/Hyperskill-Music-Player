@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Music Player/*
+!/Music Player/task/
+/Music Player/task/*
+!/Music Player/task/src
+!/Music Player/task/build.gradle

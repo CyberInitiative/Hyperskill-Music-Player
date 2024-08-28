@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_button_search_text">search</string>
+    <string name="controller_btn_play_pause_text">play/pause</string>
+    <string name="controller_btn_stop_text">stop</string>
+    <string name="main_menu_add_playlist_text">Add Playlist</string>
+    <string name="main_menu_load_playlist_text">Load Playlist</string>
+    <string name="main_menu_delete_playlist_text">Delete Playlist</string>
+    <string name="song_duration_time">%02d:%02d</string>
+    <string name="add_playlist_et_playlist_name_hint">Playlist Name</string>
+</resources>
